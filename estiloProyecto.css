@@ -193,6 +193,36 @@ nav a i{
 .title .vcomh2 span{
     color: #020668;
 }
+.title .marvelh2{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    color: #020a75;
+    margin-bottom: 20px;
+}
+.title .marvelh2 span{
+    color: #5c0303;
+}
+.title .pokeh2{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    color: #020a75;
+    margin-bottom: 20px;
+}
+.title .pokeh2 span{
+    color: #a1a108;
+}
+.title .rickh2{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    color: #076b34;
+    margin-bottom: 20px;
+}
+.title .rickh2 span{
+    color: #000000;
+}
 .logo-carousel{
     overflow: hidden;
     width: 100%;
@@ -251,6 +281,36 @@ nav a i{
     animation: slide 53s linear infinite;
 }
 .logo-wrapper-zonG{
+    width: 450px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+    animation: slide 30s linear infinite;
+}
+.logo-wrapper-marvel{
+    width: 450px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+    animation: slide 25s linear infinite;
+}
+.logo-wrapper-pokex{
+    width: 450px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+    animation: slide 25s linear infinite;
+}
+.logo-wrapper-parc{
     width: 500px;
     height: 100%;
     display: flex;
@@ -258,7 +318,7 @@ nav a i{
     gap: 20px;
     list-style: none;
     padding: 0;
-    animation: slide 18s linear infinite;
+    animation: slide 20s linear infinite;
 }
 .logo-item {
     width: 500px;
